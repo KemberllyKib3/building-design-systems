@@ -1,16 +1,18 @@
-# building_design_systems
 
-A new Flutter project.
+# Building Design Systems
 
-## Getting Started
+Flutter application I use to explain about Design Systems and the importance to User Experiences.
 
-This project is a starting point for a Flutter application.
 
-A few resources to get you started if this is your first Flutter project:
+ - [Medium Article (Portuguese)](https://kemberllysilva.medium.com/design-systems-com-flutter-d8ff45d6f03e)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+## Images
+
+![Design System and App](https://github.com/KemberllyKib3/building-design-systems/blob/main/Design%20System%20and%20Screenshot.png)
+
+
+## Author
+
+- [@KemberllyKib3](https://www.github.com/KemberllyKib3)
+
